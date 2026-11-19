@@ -2,3 +2,5 @@
 *.raw
 *.log
 *.net
+*.fft
+*.plt
